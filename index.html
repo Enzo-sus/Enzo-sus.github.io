@@ -9,11 +9,13 @@
 <p>Hi this is my website weeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee<br>eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee</p>
 
 <button type="button" onclick="show()">click for cookie</button>
-
-<img src="cookie.png" id = "cookie" style="display:none;">
-
+<div id="cookie">
+	<img src="cookie.png" style="display:none;">
+	<p> here is your cookie </p>
+</div>
 <script>
 	function show(){
+
 		var x = document.getElementById("cookie");
 		if(x.style.display ==="none"){
 			x.style.display = "block";
