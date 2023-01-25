@@ -12,11 +12,13 @@ background-color:#ff9100
 {
 color:#ff9100;
 }
-.navbar
+.navbar 
 {
 	background-color: #aaa;
 	position: fixed;
-	top:0;
+	top:15;
 	width:100%;
-
 }
+.navbarA
+	float: left;
+  	display: block;
