@@ -12,13 +12,13 @@ background-color:#ff9100
 {
 color:#ff9100;
 }
-.navbar 
-{
-	background-color: #aaa;
-	position: fixed;
-	top:0;
-	width:100%;
+
+
+.navbar {
+  background-color: #333;
+  overflow: hidden;
 }
+
 
 .navbar a {
   float: left;
