@@ -36,3 +36,7 @@ body
 background-image: url('mig-29r-73.jpg');
 background-size:cover;
 }
+.center
+{
+text-align: center;
+}
