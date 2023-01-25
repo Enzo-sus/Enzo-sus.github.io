@@ -19,6 +19,7 @@ color:#ff9100;
   overflow: hidden;
   position: fixed;
   top:15px;
+  width:100%;
 }
 
 
@@ -33,4 +34,5 @@ color:#ff9100;
 body
 {
 background-image: url('mig-29r-73.jpg');
+background-size:cover;
 }
