@@ -40,3 +40,7 @@ background-size:cover;
 {
 text-align: center;
 }
+iframe
+{
+display:block;
+}
