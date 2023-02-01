@@ -39,6 +39,9 @@ background-size:cover;
 .center
 {
 text-align: center;
+justify-content:center;
+margin-left:auto;
+margin-right:auto;
 }
 iframe
 {
