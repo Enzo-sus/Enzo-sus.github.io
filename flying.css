@@ -1,6 +1,6 @@
 body
 {
-background-image: url('mig-29r-73.jpg');
+
 background-size:cover;
 }
 h1
@@ -24,3 +24,7 @@ h1
   padding: 14px 60px;
   text-decoration: none;
   font-size: 17px;
+
+<--!
+background-image: url('mig-29r-73.jpg');
+-->
