@@ -13,9 +13,10 @@ h1
   overflow: hidden;
   position: fixed;
   width:10%;
-  height:98%;
+  top:30px;
   list-style-type:none;
   right:5px;
+  bottom: 70px;
 }
 .navbar a {
   float: left;
@@ -23,8 +24,14 @@ h1
   text-align: center;
   padding: 14px 60px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 17px;}
+.bar {
+  background-color: black;
+  overflow: hidden;
+  bottom:70px;
+  width:100%;
+}
 
-<--!
+/*
 background-image: url('mig-29r-73.jpg');
--->
+*/
