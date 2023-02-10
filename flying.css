@@ -8,6 +8,11 @@ h1
 	font-size: 50px;
 	font-family: 'Roboto', sans-serif;
 }
+h2
+{
+	font-size: 25px;
+	font-family: 'Roboto', sans-serif;
+}
 .navbar {
   background-color: #333;
   overflow: hidden;
