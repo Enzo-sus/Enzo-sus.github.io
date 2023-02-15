@@ -13,6 +13,10 @@ h2
 	font-size: 25px;
 	font-family: 'Roboto', sans-serif;
 }
+img{
+	width:600px;
+	height:auto;
+}
 .navbar {
   background-color: #333;
   overflow: hidden;
@@ -34,7 +38,26 @@ h2
   background-color: black;
   overflow: hidden;
   bottom:70px;
-  width:100%;
+  width:100%;}
+@media (max-width:480px){
+.navbar {
+  background-color: #333;
+  overflow: hidden;
+  position: fixed;
+  width:98%;
+  height:4%;
+  top:12px;
+  list-style-type:none;
+}
+.bar {
+  background-color: black;
+  overflow: hidden;
+  bottom:70px;
+  width:100%;}
+  img{
+  	width:98%;
+  	height:auto;
+  }
 }
 
 /*
