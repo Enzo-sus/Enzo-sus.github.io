@@ -50,7 +50,7 @@ img {
         overflow: hidden;
         position: fixed;
         width: 98%;
-        height: 4%;
+        height: 5%;
         top: 12px;
         list-style-type: none;
     }
@@ -60,7 +60,7 @@ img {
 	}
 
     .navbar a {
-        padding: 20px 45px;
+        padding: 10px 40px;
         text-decoration: none;
     }
 
